@@ -1,0 +1,178 @@
+/* This is header sectiion */
+header{
+    margin: 20px auto;
+    background-image: url("../new-year-new-me/images/banner/banner3.png");   
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.header-section{
+text-align: right;
+padding-right: 150px;
+color: white;
+}
+.header-tittle{
+    padding-top: 200px;
+    font-size: 58px;
+    font-weight: 900px;   
+   }
+   .header-description{
+    font-size: 14px;
+    line-height: 24px;
+   }
+   /* this is header btn */
+   .btn{
+    width: 150px;
+    background-color: rgb(253, 245, 234);
+    color: rgb(20, 7, 138);
+    padding: 10px;
+    font-size: 18px;   
+    border: 1px solid white; 
+    border-radius: 5%;
+    margin-top: 20px;
+    margin-bottom: 180px;
+   }
+   /* This is main section */
+   .section{
+    margin:   0 auto; 
+    display: flex;  
+   }
+   .section-tittle{
+    justify-content: right;
+    margin-left: 100px;
+    margin-top: 200px;
+       }
+    .tittle{
+        margin-right: 300px;
+        color: grey;
+        }
+    .tittle h2{
+        font-size: 42px;
+        font-weight: 700;
+        font-style: normal;
+        color: black;
+    }
+    .tittle p{
+        line-height: 22px;
+    }
+    .seting-section{
+        line-height: 28px;
+        color: gray;
+    }
+    .seting-section img{
+        padding-top: 10px;
+    }
+    .seting-section span{
+        padding-left: 10px;
+    }
+  /* This is section two */
+   .section-two{    
+    margin: 0 auto;
+    text-align: center;
+         }
+    .section-two h2{
+            
+           font-size: 45px;
+         }
+    .content p{
+            color: gray;
+            line-height: 30px;
+         }
+    .content .span{
+            font-size: 27px;
+            font-weight: bold;
+            color: black;
+         }
+   .section-headline{
+    display: flex;
+    margin-left: 20%;
+    gap: 70px;
+   }
+   .section-two-backg{
+     margin: 100px 200px;    
+     background-image:url('../new-year-new-me/images/watch.png');
+     background-repeat: no-repeat;
+     opacity: 0.7;
+   }
+   
+   .section-backg{
+    padding: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+   }
+   .section-backg h2{
+    color: white;
+    font-style: normal;
+   }
+   .section-backg button{
+    height: 50px;
+    width: 140px;
+    color: rgb(22, 22, 95);
+    background-color: #fff;
+    padding-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+   }
+   /* This is my section */
+   .section-three{
+    margin: 70px auto;
+   }
+   .my-section1{
+    display: flex;
+   }
+   .my-section{
+    margin: 100px 160px;
+    font-size: 27px;
+    color: gray;
+   }
+   .my-section h3{
+    font-size: 32px;
+   }
+   .section-three h2{
+    text-align: center;
+    color: rgb(58, 56, 56);
+    font-size: 40px;
+    font-weight: bold;
+   }
+   /* This is footer css section  */
+   footer{
+    background-color: black;
+    margin-top: 100px;
+    display: flex;
+   }
+   .footer-description{
+    color: #fff;
+    padding: 30px 200px 50px 200px;
+    line-height: 25px;
+   
+   }
+   .footer-description h3{
+    font-weight: 700;
+    font-size: 38;
+   }
+   
+   .footer-description img{
+    padding-top: 20px;
+   }
+   .footer-content h3{
+    color: #fff;
+   }
+   .footer-content{
+    padding: 30px 150px 50px;
+   line-height: 25px;
+   }
+   .input-btn{
+    padding: 10px;
+    background-color:black;
+    border: 1px solid white;
+    border-radius: 5px;
+   }
+   .submit{
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: rgb(20, 127, 250);
+    color: #fff;
+    border: 1px solid blue;
+    font-weight: 600;
+    border-radius: 5px;
+   }
